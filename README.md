@@ -123,9 +123,9 @@ import java.util.concurrent.TimeUnit;
 @Slf4j
 public class WeChatApiUtils {
 
-    private final String appid = "wx3b33cf88f976905d";
+    private final String appid = "appid";
 
-    private final String secret = "fa2ed6f16e38fb830a33b725f981a50c";
+    private final String secret = "secret";
 
     private final String WECHAT_ACCESS_TOKEN_KEY = "wechat:access:token";
 
